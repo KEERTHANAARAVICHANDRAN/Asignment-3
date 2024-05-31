@@ -118,7 +118,7 @@ elif select == "Upload & Extract":
             
             mydb = mysql.connector.connect(host="localhost",
                                             user="root",
-                                            password="Keerthanaa9799",
+                                            password="3333333",
                                             database= "bizcardx",
                                             port="3306")
             mycursor = mydb.cursor()
@@ -152,7 +152,7 @@ elif select == "Upload & Extract":
                 
                 mydb = mysql.connector.connect(host="localhost",
                                             user="root",
-                                            password="Keerthanaa9799",
+                                            password="333333",
                                             database= "bizcardx",
                                             port="3306")
                 mycursor = mydb.cursor()
@@ -185,7 +185,7 @@ elif select == "Modify":
     if select =="Modify":
         mydb = mysql.connector.connect(host="localhost",
                                             user="root",
-                                            password="Keerthanaa9799",
+                                            password="33333",
                                             database= "bizcardx",
                                             port="3306")
         mycursor = mydb.cursor()
@@ -258,7 +258,7 @@ elif select == "Modify":
 
             mydb = mysql.connector.connect(host="localhost",
                                 user="root",
-                                password="Keerthanaa9799",
+                                password="3333",
                                 database= "bizcardx",
                                 port="3306")
             mycursor = mydb.cursor()
